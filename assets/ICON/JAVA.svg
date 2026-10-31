@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="javaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA2D2E"/>
+      <stop offset="100%" stop-color="#5382A1"/>
+    </linearGradient>
+  </defs>
+  <rect width="116" height="116" x="6" y="6" rx="24" fill="#ffffff" stroke="#EA2D2E" stroke-width="4"/>
+  <!-- Java Cup Steam -->
+  <path d="M72 18c6 10-6 16-1 26-8-8-4-15 1-26z" fill="#EA2D2E"/>
+  <path d="M54 22c5 8-4 13-1 21-6-6-3-12 1-21z" fill="#5382A1"/>
+  <!-- Cup Body -->
+  <path d="M38 60h46c0 14-8 24-23 24s-23-10-23-24z" fill="#5382A1"/>
+  <!-- Handle -->
+  <path d="M84 64c8 0 14 5 14 12s-6 12-14 12v-5c5 0 9-3 9-7s-4-7-9-7v-5z" fill="#5382A1"/>
+  <!-- Saucer / base -->
+  <ellipse cx="61" cy="92" rx="34" ry="6" fill="#EA2D2E"/>
+  <text x="64" y="112" fill="#333333" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="16" text-anchor="middle" letter-spacing="1">JAVA</text>
+</svg>

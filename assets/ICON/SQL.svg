@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="sqlGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00758F"/>
+      <stop offset="50%" stop-color="#336791"/>
+      <stop offset="100%" stop-color="#F29111"/>
+    </linearGradient>
+    <linearGradient id="cylinderGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#388E3C"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <rect width="116" height="116" x="6" y="6" rx="24" fill="url(#sqlGrad)"/>
+  <ellipse cx="64" cy="34" rx="36" ry="12" fill="#ffffff" opacity="0.9"/>
+  <path d="M28 34v16c0 6.6 16.1 12 36 12s36-5.4 36-12V34" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M28 50v16c0 6.6 16.1 12 36 12s36-5.4 36-12V50" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <rect x="20" y="76" width="88" height="32" rx="8" fill="#1b2a32" opacity="0.95"/>
+  <text x="64" y="99" fill="#F29111" font-family="'Segoe UI', Roboto, 'Clash Grotesk', sans-serif" font-weight="900" font-size="24" text-anchor="middle" letter-spacing="2">SQL</text>
+</svg>

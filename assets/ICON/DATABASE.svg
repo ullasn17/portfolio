@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="dbBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="dbDisk" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="116" height="116" x="6" y="6" rx="24" fill="url(#dbBg)"/>
+  <!-- Top Disk -->
+  <ellipse cx="64" cy="36" rx="34" ry="11" fill="url(#dbDisk)"/>
+  <!-- Middle Tier -->
+  <path d="M30 36v18c0 6.1 15.2 11 34 11s34-4.9 34-11V36" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Bottom Tier -->
+  <path d="M30 54v18c0 6.1 15.2 11 34 11s34-4.9 34-11V54" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Lowest Tier -->
+  <path d="M30 72v18c0 6.1 15.2 11 34 11s34-4.9 34-11V72" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Lights -->
+  <circle cx="82" cy="54" r="3" fill="#22c55e"/>
+  <circle cx="82" cy="72" r="3" fill="#22c55e"/>
+  <circle cx="82" cy="90" r="3" fill="#22c55e"/>
+</svg>

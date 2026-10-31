@@ -1,0 +1,12 @@
+{
+  "name": "ullas-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Ullas N - Full Stack Developer",
+  "scripts": {
+    "dev": "npx -y serve -l 3000",
+    "start": "npx -y serve -l 3000"
+  },
+  "keywords": [],
+  "author": "Ullas N",
+  "license": "ISC"
+}

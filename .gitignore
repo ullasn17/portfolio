@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+.vercel
+*.log
+
+# Unused large video assets (excluded from git/deployment)
+assets/FITCLUB.mp4
+assets/Lightship.mp4
+assets/LINKED.mp4
+assets/MOQO.mp4
+assets/SELEMEN.mp4
+assets/VisionaryArchitects.mp4
+
